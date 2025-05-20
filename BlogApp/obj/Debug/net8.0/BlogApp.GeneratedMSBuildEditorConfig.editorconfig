@@ -17,3 +17,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /Users/efecemdogan/Desktop/ASP.NetCore/BlogApp/BlogApp
 build_property._RazorSourceGeneratorDebug = 
+
+[/Users/efecemdogan/Desktop/ASP.NetCore/BlogApp/BlogApp/Properties/Views/Posts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllcy9WaWV3cy9Qb3N0cy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
